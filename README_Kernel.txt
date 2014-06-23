@@ -1,7 +1,7 @@
-Kernel for Samsung Galaxy Tab Pro 8.4 LTE (SM-T325).
+Kernel for Samsung Galaxy Tab Pro 8.4 LTE (SM-T325)
+###################################################
 
 ################################################################################
-
 1. How to Build
 	- get Toolchain
 		From android git server , codesourcery and etc ..
