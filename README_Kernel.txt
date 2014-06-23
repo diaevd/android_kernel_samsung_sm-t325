@@ -1,8 +1,8 @@
 Kernel for Samsung Galaxy Tab Pro 8.4 LTE (SM-T325)
 ###################################################
 
-################################################################################
 1. How to Build
+---------------
 	- get Toolchain
 		From android git server , codesourcery and etc ..
 		 - arm-eabi-4.7
@@ -17,9 +17,11 @@ Kernel for Samsung Galaxy Tab Pro 8.4 LTE (SM-T325)
 		$ make
 
 2. Output files
+---------------
 	- Kernel : arch/arm/boot/zImage
 	- module : drivers/*/*.ko
 
-3. How to Clean	
+3. How to Clean
+---------------
 		$ make clean
-################################################################################
+
